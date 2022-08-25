@@ -3,6 +3,7 @@
 !wheel/**
 !python/**
 !data/wiki/**
+!data/sling-run.py
 !data/nlp/schemas/**
 !.
 
